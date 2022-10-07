@@ -1,4 +1,3 @@
-![MasterHead](https://www.howtogeek.com/wp-content/uploads/csit/2021/05/a477938d.png?height=200p&trim=2,2,2,2)
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
 <h3 align="center">A passionate machine learning developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/106/535/HD-wallpaper-pc-gamer.jpg">
