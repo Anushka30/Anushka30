@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Python,Flask**
 
-- 📫 How to reach me **anushka108g@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
