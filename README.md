@@ -17,6 +17,8 @@
 <a href="https://linkedin.com/in/anushka-gupta-75057254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-gupta-75057254" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anushka30j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushka30j" height="30" width="40" /></a>
 <a href="https://medium.com/@anushka108g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="your_username" height="30" width="40" /></a>
+<a href="https://medium.com/@anushka108g" target="blank"><i class="bi bi-medium"></i></a>
+
 
 </p>
 
